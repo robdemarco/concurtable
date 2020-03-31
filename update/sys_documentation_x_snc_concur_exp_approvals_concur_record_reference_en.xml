@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="concur_record_reference" label="Concur Record Reference" language="en" table="x_snc_concur_exp_approvals">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>concur_record_reference</element>
+            <help/>
+            <hint/>
+            <label>Concur Record Reference</label>
+            <language>en</language>
+            <name>x_snc_concur_exp_approvals</name>
+            <plural>Concur Record References</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-31 14:59:31</sys_created_on>
+            <sys_id>d2ce4e8f1bbbc850053cdb9cdc4bcba0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Concur Record Reference</sys_name>
+            <sys_package display_value="Concur Expense Approval" source="x_snc_concur_exp">3cedc20f1bbbc850053cdb9cdc4bcb67</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Concur Expense Approval">3cedc20f1bbbc850053cdb9cdc4bcb67</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_concur_exp_approvals_concur_record_reference_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-31 14:59:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
