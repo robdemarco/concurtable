@@ -2,6 +2,7 @@
     <element extends="task" label="Concur Expense Approvals" max_length="40" name="x_snc_concur_exp_approvals" type="collection">
         <element attributes="omit_sys_original=true" label="Communications Expenses" max_length="20" name="communications_expenses" type="currency"/>
         <element attributes="edge_encryption_enabled=true" label="Concur Record Reference" max_length="80" name="concur_record_reference" type="string"/>
+        <element display="true" label="Requested By" mandatory="true" max_length="32" name="requested_by" reference="sys_user" type="reference"/>
         <element attributes="omit_sys_original=true" label="Total Expense" max_length="20" name="total_expense" type="currency"/>
         <element attributes="omit_sys_original=true" label="Travel Expenses" max_length="20" name="travel_expenses" type="currency"/>
     </element>
